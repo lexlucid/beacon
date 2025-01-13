@@ -1,0 +1,48 @@
+{
+    "resources": [
+      {
+        "id": 1,
+        "category": "Housing",
+        "title": "Casa Lola",
+        "description": "A transitional housing program to provide a safer, affirming place to stabilize while working toward personal goals.",
+        "url": "https://tgrcnm.org/casa-lola",
+        "contact": {
+          "phone": "",
+          "email": ""
+        }
+      },
+      {
+        "id": 2,
+        "category": "Mental Health",
+        "title": "Transgender Resource Center of New Mexico",
+        "description": "A non-profit organization that provides support, education, and advocacy for transgender, non-binary, and gender nonconforming communities",
+        "url": "https://tgrcnm.org/",
+        "contact": {
+          "phone": "505-200-9086",
+          "email": "tgrcnm@tgrcnm.org"
+        }
+      },
+      {
+        "id": 3,
+        "category": "Healthcare",
+        "title": "UNM Truman Health Services",
+        "description": "A clinic that provides comprehensive, compassionate care to the LGBTQ+ community",
+        "url": "https://www.unmmg.org/truman-health-services",
+        "contact": {
+          "phone": "505-272-1312",
+          "email": ""
+        }
+      },
+      {
+        "id": 4,
+        "category": "Legal",
+        "title": "Safe2BU",
+        "description": "Safe2BU is a project of New Mexico Legal Aid that provides free legal assistance to LGBTQ+ individuals in New Mexico.",
+        "url": "https://newmexicolegalaid.org/safe2bu-lgbtq-legal-assistance/",
+        "contact": {
+          "phone": "1-877-545-7270",
+          "email": "Safe2BU@nmlegalaid.org"
+        }
+      }
+    ]
+  }
